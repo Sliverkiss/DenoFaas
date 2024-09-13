@@ -1,6 +1,6 @@
 const config = {
   host: Deno.env.get("HOST") ?? "localhost",
-  port: Deno.env.get("PORT") ?? "3000",
+  port: Deno.env.get("PORT") ?? "9798",
   passwordSalt: Deno.env.get("PASSWORD_SALT") ?? "",
   jwtExpires: parseInt(Deno.env.get("JWT_EXPIRES") ?? "86400"),
   jwtKeyFile: Deno.env.get("JWT_KEY_FILE") ?? "jwt.key",
