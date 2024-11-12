@@ -3,10 +3,8 @@
 A lightweight file-based FaaS platform.
 
 ## Web
-1. 
 ```
-cd fn-admin
-
+you can deply for vervel
 ```
 
 ## Backend
