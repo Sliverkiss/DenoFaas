@@ -4,7 +4,7 @@ A lightweight file-based FaaS platform.
 
 ## Web
 ```
-you can deply for vercel,the .env set backend host
+You can deploy the project to Vercel and configure the backend host address in the fn-admin/.env file.
 ```
 
 ## Backend
